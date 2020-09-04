@@ -1,6 +1,6 @@
 # For CTF enviroment setting
-1. Install docker   
-2. Put env_setup.sh, Dockerfile in samefolder.   
+1. Install docker.   
+2. Pull this repository.     
 3. For making docker, Run mk_docker.sh   
 
 
